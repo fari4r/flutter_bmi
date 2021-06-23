@@ -1,4 +1,4 @@
-# flutter_demo
+# BMI calculator
 
-A new Flutter project.
 
+this is a flutter app for calculating yout bmi :) 
